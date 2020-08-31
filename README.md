@@ -1,2 +1,2 @@
-# oups2wav
-.oupsファイルから.wavファイルに変換するツール
+# opus2wav
+.opusファイルから.wavファイルに変換するツール
