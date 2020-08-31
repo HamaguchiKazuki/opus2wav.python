@@ -1,0 +1,4 @@
+PyOgg
+PyOpenAL
+PySoundFile
+librosa
