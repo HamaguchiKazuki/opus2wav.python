@@ -2,6 +2,10 @@
 .opusファイルから.wavファイルに変換するツール
 [記事](https://qiita.com/Haaamaaaaa/items/74f7ad4f37171a7ac534)
 
+## required
+- python: 3.8.5
+- ffmpeg: 4.3.1-static
+
 ## 使い方
 1. opusファイルが入ったフォルダかファイルを用意する
 2. ```pip install -r requirements.txt```で必要なライブラリを追加
