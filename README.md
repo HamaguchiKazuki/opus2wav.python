@@ -4,7 +4,8 @@
 
 ## 使い方
 1. opusファイルが入ったフォルダかファイルを用意する
-2. ```python opus2wav.py ---```を使用して変換する
+2. ```pip install -r requirements.txt```で必要なライブラリを追加
+3. ```python opus2wav.py ---```を使用して変換する
 usage:
     Examples file
     python opus2wav.py -i input_opus_files/sample.opus -o output_wav_files/sample.wav -f -sr 48000
